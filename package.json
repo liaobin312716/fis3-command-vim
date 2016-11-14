@@ -1,0 +1,27 @@
+{
+  "name": "fis3-command-vim",
+  "version": "0.0.1",
+  "description": "a scaffold for offline development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liaobin312716/fis3-command-vim.git"
+  },
+  "keywords": [
+    "fis3",
+    "command",
+    "scaffold"
+  ],
+  "author": "liaobin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liaobin312716/fis3-command-vim/issues"
+  },
+  "homepage": "https://github.com/liaobin312716/fis3-command-vim#readme",
+  "dependencies": {
+    "object-assign": "^4.1.0"
+  }
+}
